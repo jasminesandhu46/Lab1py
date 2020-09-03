@@ -12,6 +12,6 @@ elif letter == "c" or letter == "C":
   tempnew = (9*temp/5)+32
   print(f"{temp}° in Celsius is equivalent to {tempnew}° Fahrenheit.")
 else:
-  print(f"invalid unit({letter}).")
+  print(f"Invalid unit({letter}).")
 
     
